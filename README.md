@@ -10,3 +10,7 @@ This project is a sandbox for working with Chat-GPT API using Python
 
 ## Update Requirementlist
 * pip freeze > requirements.txt
+
+## Add Enviroment with API Key
+* Add file .env in main folder
+* OPENAI_API_KEY=<API-KEY>
